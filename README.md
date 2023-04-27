@@ -1,1 +1,1 @@
-#Projeto Lista de Compras - Utilizado no Curso Objetos no JavaScript - Escola Front-End Alura
+# Curso de aplicações Web em JavaScript com tarefas concorrentes e orientadas a objetos
