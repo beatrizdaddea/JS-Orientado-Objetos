@@ -28,3 +28,5 @@ Projeto de uma página de cotações de moedas, são aplicados os conceitos de:
 - WebWorkers
 - Single Thread
 - MultiThread
+
+Link: https://beatrizdaddea.github.io/JS-Orientado-Objetos/
